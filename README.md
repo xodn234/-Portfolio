@@ -11,7 +11,7 @@
 
 - 알레르기 반응이 없는 유사한 식품을 추천해주는 모델 구현 🔗[프로젝트 URL](https://github.com/xodn234/Food_allergy_PJ)
     - 추천을 위한 코사인유사도 방식 활용
-    - Heroku를 통한 웹 배포
+    - Heroku를 통한 웹 배포 (https://food-allergy-c.herokuapp.com/)
 - skill : Flask, NLP
 
 ### ****GAN을 이용한 자동차 이미지 생성 (****2022.03.17 - 2022.03.22****) - 개인****
