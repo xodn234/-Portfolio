@@ -5,7 +5,7 @@
         - 구글렌즈를 크롤링하여  foodname, labelbox 정보를 가져오는 코드 작성
         - image hash를 통하여 동일한 이미지를 판단하여 삭제하는 코드 작성
         - 크롤링한 labelbox를 가지고 이미지에 box가 포함된 이미지를 출력하는 코드 작성
-- skill : Opencv, Crawling, API활용
+- skill : OpenCV, Crawling, API활용
 
 ### 식품 알레르기 대체 식품 추천 (2022.04.20 - 2022.05.02) - 개인
 
