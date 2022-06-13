@@ -20,7 +20,7 @@
     - 이미지 생성을 위한 DCGAN사용
     - 결과물 비교를 위해 애니메이션 데이터를 추가 활용
     - epoch 0~1000 학습 과정 확인
-- skill : TensorFlow(keras), opencv
+- skill : TensorFlow(keras), OpenCV
 
 ### ****송전선로 고장 예측 (****2022.02.11 - 2022.02.16****) - 개인****
 
@@ -32,7 +32,7 @@
 ### ****기계 불량 예측  유지보수 분류 (****2022.01.07 - 2022.01.12****) - 개인****
 
 - 불량 예측을 위한 머신러닝 모델링 및 해석 🔗[프로젝트 URL](https://github.com/xodn234/Machine_Predictive_Maintenance_PJ)
-    - 실제 불량을 줄이고 또한 실제 불량이 아니지만 미리 점검을 위한 재현율(Recall) 평가지표 사용
+    - 실제 불량을 줄이고 점검을 위한 재현율(Recall) 평가지표 사용
     - 과적합의 문제를 해결하기 위해 bagging(RandomForest) 모델사용
     - pdpbox를 이용한 모델 해석
 - skill : scikit-learn
