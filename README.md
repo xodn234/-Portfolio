@@ -1,6 +1,6 @@
 ### 이미지 정보 수집을 통한 Labelme formal출력 API Service (2022.05.09 - 2022.06.03) - 기업협업(누비랩)
 
-- 이미지를 입력받아  Labelme formal으로 출력하기 위한 API Service 🔗[프로젝트 URL](https://github.com/xodn234/Image_input-labelme_format/tree/main)
+- 이미지를 입력받아  Labelme format으로 출력하기 위한 API Service 🔗[프로젝트 URL](https://github.com/xodn234/Image_input-labelme_format/tree/main)
     - 담당업무
         - 구글렌즈를 크롤링하여  foodname, labelbox 정보를 가져오는 코드 작성
         - image hash를 통하여 동일한 이미지를 판단하여 삭제하는 코드 작성
