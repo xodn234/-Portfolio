@@ -1,4 +1,4 @@
-### 이미지 정보 수집을 통한 Labelme formal출력 API Service (2022.05.09 - 2022.06.03) - 기업협업(누비랩)
+### 이미지 정보 수집을 통한 Labelme format출력 API Service (2022.05.09 - 2022.06.03) - 기업협업(누비랩)
 
 - 이미지를 입력받아  Labelme format으로 출력하기 위한 API Service 🔗[프로젝트 URL](https://github.com/xodn234/Image_input-labelme_format/tree/main)
     - 담당업무
