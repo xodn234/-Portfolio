@@ -4,7 +4,7 @@
 
 - 이미지를 입력받아  Labelme format으로 출력하기 위한 API Service 🔗[프로젝트 URL](https://github.com/xodn234/Image_input-labelme_format/tree/main)
     - 담당업무
-        - 구글렌즈를 크롤링하여  foodname, labelbox, url 정보를 가져오는 코드 적용
+        - 구글렌즈를 크롤링하여  foodname, labelbox, Url 정보를 가져오는 코드 적용
         - image hash를 통하여 동일한 이미지를 판단하여 삭제하는 코드 적용
         - 크롤링한 labelbox를 가지고 이미지에 box가 포함된 이미지를 출력하는 코드 적용
 - skill : OpenCV, Crawling, API활용
